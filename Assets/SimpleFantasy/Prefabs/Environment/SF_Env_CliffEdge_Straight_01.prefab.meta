@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd91e4d02d634ce44a0dc9df87b9c8e7
+timeCreated: 1473902736
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_CliffEdge_Straight_01.prefab
+  uploadId: 718576

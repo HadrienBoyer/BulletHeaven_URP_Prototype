@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e18f79f702776dc4c943502e33fba6e7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Materials/Shaders/Stylized
+    Grass SRP Batched.shader
+  uploadId: 692071

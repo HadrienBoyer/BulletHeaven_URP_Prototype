@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802dbcbcd5130d84f981748df80c042f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Demo/Demos/URP/Postprocessing.asset
+  uploadId: 552417

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a061d33e9f404ad4eb8462bed1c0a2ea
+timeCreated: 1476568515
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Characters/SF_Character_Human_Knight_ShieldMaiden.prefab
+  uploadId: 718576

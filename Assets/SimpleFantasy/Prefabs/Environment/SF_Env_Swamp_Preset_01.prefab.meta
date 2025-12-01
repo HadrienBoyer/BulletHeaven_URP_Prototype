@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdb4a7751894d1247ba833a896a29296
+timeCreated: 1473902733
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_Swamp_Preset_01.prefab
+  uploadId: 718576

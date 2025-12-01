@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b468935590c8cc459c12493af36fc94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Demo/Demos/Scripts/FlagAttack.cs
+  uploadId: 552417

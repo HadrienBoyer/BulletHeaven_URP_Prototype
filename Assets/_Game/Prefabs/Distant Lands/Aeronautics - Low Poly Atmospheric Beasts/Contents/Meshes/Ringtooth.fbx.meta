@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 1bcb423064dbc974a82278f87d4be1a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Head
+    100004: Left Bottom Jaw 1
+    100006: Left Bottom Jaw 2
+    100008: Left Bottom Jaw 3
+    100010: Left Bottom Jaw 3_end
+    100012: Left Top Jaw 1
+    100014: Left Top Jaw 2
+    100016: Left Top Jaw 3
+    100018: Left Top Jaw 3_end
+    100020: Left Wing 1
+    100022: Left Wing 2
+    100024: Left Wing 3
+    100026: Left Wing 4
+    100028: Left Wing 5
+    100030: Left Wing 5_end
+    100032: Right Bottom Jaw 1
+    100034: Right Bottom Jaw 2
+    100036: Right Bottom Jaw 3
+    100038: Right Bottom Jaw 3_end
+    100040: Right Top Jaw 1
+    100042: Right Top Jaw 2
+    100044: Right Top Jaw 3
+    100046: Right Top Jaw 3_end
+    100048: Right Wing 1
+    100050: Right Wing 2
+    100052: Right Wing 3
+    100054: Right Wing 4
+    100056: Right Wing 5
+    100058: Right Wing 5_end
+    100060: Ringtooth
+    100062: //RootNode
+    100064: Tail 1
+    100066: Tail 10
+    100068: Tail 10_end
+    100070: Tail 11
+    100072: Tail 11_end
+    100074: Tail 12
+    100076: Tail 12_end
+    100078: Tail 1_end
+    100080: Tail 2
+    100082: Tail 3
+    100084: Tail 3_end
+    100086: Tail 4
+    100088: Tail 4_end
+    100090: Tail 5
+    100092: Tail 5_end
+    100094: Tail 6
+    100096: Tail 6_end
+    100098: Tail 7
+    100100: Tail 7_end
+    100102: Tail 8
+    100104: Tail 8_end
+    100106: Tail 9
+    100108: Tail 9_end
+    100110: Ringtooth Bones
+    400000: Armature
+    400002: Head
+    400004: Left Bottom Jaw 1
+    400006: Left Bottom Jaw 2
+    400008: Left Bottom Jaw 3
+    400010: Left Bottom Jaw 3_end
+    400012: Left Top Jaw 1
+    400014: Left Top Jaw 2
+    400016: Left Top Jaw 3
+    400018: Left Top Jaw 3_end
+    400020: Left Wing 1
+    400022: Left Wing 2
+    400024: Left Wing 3
+    400026: Left Wing 4
+    400028: Left Wing 5
+    400030: Left Wing 5_end
+    400032: Right Bottom Jaw 1
+    400034: Right Bottom Jaw 2
+    400036: Right Bottom Jaw 3
+    400038: Right Bottom Jaw 3_end
+    400040: Right Top Jaw 1
+    400042: Right Top Jaw 2
+    400044: Right Top Jaw 3
+    400046: Right Top Jaw 3_end
+    400048: Right Wing 1
+    400050: Right Wing 2
+    400052: Right Wing 3
+    400054: Right Wing 4
+    400056: Right Wing 5
+    400058: Right Wing 5_end
+    400060: //RootNode
+    400062: Ringtooth
+    400064: Tail 1
+    400066: Tail 10
+    400068: Tail 10_end
+    400070: Tail 11
+    400072: Tail 11_end
+    400074: Tail 12
+    400076: Tail 12_end
+    400078: Tail 1_end
+    400080: Tail 2
+    400082: Tail 3
+    400084: Tail 3_end
+    400086: Tail 4
+    400088: Tail 4_end
+    400090: Tail 5
+    400092: Tail 5_end
+    400094: Tail 6
+    400096: Tail 6_end
+    400098: Tail 7
+    400100: Tail 7_end
+    400102: Tail 8
+    400104: Tail 8_end
+    400106: Tail 9
+    400108: Tail 9_end
+    400110: Ringtooth Bones
+    2100000: Belly
+    2100002: Skin 1
+    2100004: Fin 1
+    2100006: Mouth
+    2100008: Teeth
+    4300000: Ringtooth
+    9500000: //RootNode
+    13700000: Ringtooth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belly
+    second: {fileID: 2100000, guid: 8d94e84e0fa1ba94cbfd1f089002c1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin 1
+    second: {fileID: 2100000, guid: c637bfc07a96fec468c38ec6d5efab2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: 2cef6842339bfae4da54c7bec64c093a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin 1
+    second: {fileID: 2100000, guid: 41b06c4f98d90b847a8ae0f1165f9272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: 05bdb97d94c7c19439e2ad30d72b620a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Ringtooth.fbx
+  uploadId: 431753

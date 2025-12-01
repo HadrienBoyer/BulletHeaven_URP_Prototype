@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53a3f74288966e043875b8b215e61bb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Scenes/Terrain/Stylized
+    Rock.terrainlayer
+  uploadId: 692071

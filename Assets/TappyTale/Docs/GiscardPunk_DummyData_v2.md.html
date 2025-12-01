@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>GiscardPunk ARPG – Dummy .asset Setup (v2)</title>
+
+# GiscardPunk ARPG – Dummy .asset Setup (v2)
+
+Ce pack contient :
+- Un set minimal de scripts C# nécessaires pour compiler les ScriptableObjects
+- 4 ScriptableObjects `.asset` prêts à être importés :
+  - Weapons : `Weapon_SwordDefault`, `Weapon_EnemyClaw`
+  - Characters : `Character_Player`, `Character_EnemyGrunt`
+
+Les GUID de scripts et d'assets sont laissés neutres pour que Unity régénère les `.meta` proprement dans TON projet.
+
+---
+
+## 1. Arborescence
+
+```text
+Assets/
+  Scripts/
+    Combat/
+      DamageType.cs
+      WeaponDefinition.cs
+    Characters/
+      CharacterDefinition.cs
+  Data/
+    Weapons/
+      Weapon_SwordDefault.asset
+      Weapon_EnemyClaw.asset
+    Characters/
+      Character_Player.asset
+      Character_EnemyGrunt.asset
+Docs/
+  GiscardPunk_DummyData_v2.md.html
+```
+
+---
+
+## 2. ScriptableObjects
+
+### Weapons
+
+**Weapon_SwordDefault.asset** (WeaponDefinition)
+- Id: `weapon_sword_default`
+- DisplayName: `Sword Default`
+- BaseDamage: `12`
+- DamageType: `Physical`
+- AttackCooldown: `0.4`
+- AttackRadius: `1.3`
+- HitMask: Everything
+
+**Weapon_EnemyClaw.asset** (WeaponDefinition)
+- Id: `weapon_enemy_claw`
+- DisplayName: `Enemy Claw`
+- BaseDamage: `6`
+- DamageType: `Physical`
+- AttackCooldown: `0.8`
+- AttackRadius: `1.0`
+- HitMask: Everything
+
+### Characters
+
+**Character_Player.asset** (CharacterDefinition)
+- Id: `character_player`
+- DisplayName: `Player Knight`
+- MaxHealth: `60`
+- MoveSpeed: `5`
+- DodgeDistance: `3`
+- DodgeDuration: `0.2`
+- StartingWeapon: (placeholder ref → re-sélectionner `Weapon_SwordDefault` dans l'Inspector)
+
+**Character_EnemyGrunt.asset** (CharacterDefinition)
+- Id: `character_enemy_grunt`
+- DisplayName: `Enemy Grunt`
+- MaxHealth: `30`
+- MoveSpeed: `3.5`
+- DodgeDistance: `0`
+- DodgeDuration: `0.1`
+- StartingWeapon: (placeholder ref → re-sélectionner `Weapon_EnemyClaw` dans l'Inspector)
+
+> Astuce : après import, ouvre chaque `CharacterDefinition` et assigne l'arme correspondante.
+> Pas besoin de toucher au YAML à la main.
+
+---
+
+## 3. Utilisation dans ta scène
+
+1. Copie le contenu de ce pack dans ton projet Unity (merge `Assets/` et `Docs/`).
+2. Laisse Unity recompiler et générer les `.meta`.
+3. Dans le Project :
+   - Va dans `Assets/Data/Weapons/` et vérifie les deux Weapons.
+   - Va dans `Assets/Data/Characters/` et vérifie les deux Characters.
+4. Sur ton Player GameObject :
+   - Ajoute `CharacterDefinition` si besoin dans un `CharacterRuntime` (selon ta base),
+   - Assigne `Character_Player` comme definition,
+   - Dans ce SO, mets `StartingWeapon = Weapon_SwordDefault`.
+5. Sur un Enemy GameObject :
+   - Assigne `Character_EnemyGrunt` comme definition,
+   - Dans ce SO, mets `StartingWeapon = Weapon_EnemyClaw`.
+
+Une fois ces liens faits, ton système de combat peut déjà consommer ces données.
+
+---
+
+```mermaid
+graph TD
+    subgraph Weapons
+        W1[Weapon_SwordDefault]
+        W2[Weapon_EnemyClaw]
+    end
+    subgraph Characters
+        C1[Character_Player]
+        C2[Character_EnemyGrunt]
+    end
+    C1 -->|StartingWeapon| W1
+    C2 -->|StartingWeapon| W2
+```
+
+---
+
+<script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script>

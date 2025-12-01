@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 72cda49c5b77b604fbcab74006634169
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181222
+  packageName: 'Kaiju: Low Poly Titans'
+  packageVersion: 1.0
+  assetPath: Assets/Kaiju - Low Poly Giant Monsters/Contents/Scripts/LegController.cs
+  uploadId: 396261

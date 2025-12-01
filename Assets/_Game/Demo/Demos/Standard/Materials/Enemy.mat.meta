@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3e89fceb63a92148b0e7e72ad0dcd76
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Demo/Demos/Standard/Materials/Enemy.mat
+  uploadId: 552417

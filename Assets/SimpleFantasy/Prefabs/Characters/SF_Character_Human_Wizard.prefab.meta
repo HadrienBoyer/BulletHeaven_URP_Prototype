@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ae6e4e008749404d95ce29b596ce5e0
+timeCreated: 1476568489
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Characters/SF_Character_Human_Wizard.prefab
+  uploadId: 718576

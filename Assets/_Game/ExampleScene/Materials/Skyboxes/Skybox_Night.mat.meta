@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4edbd622cdc44f04cbc761573fd46255
+timeCreated: 1547931841
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103056
+  packageName: HUD Navigation System
+  packageVersion: 2.2.0
+  assetPath: Assets/Sickscore Games/HUD-Navigation-System/_Examples/ExampleScene/Materials/Skyboxes/Skybox_Night.mat
+  uploadId: 382610

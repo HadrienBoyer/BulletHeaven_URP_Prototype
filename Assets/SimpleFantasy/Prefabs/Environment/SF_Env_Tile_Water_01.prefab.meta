@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05462eb326addb342b8cc8df1e52e952
+timeCreated: 1473992334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_Tile_Water_01.prefab
+  uploadId: 718576

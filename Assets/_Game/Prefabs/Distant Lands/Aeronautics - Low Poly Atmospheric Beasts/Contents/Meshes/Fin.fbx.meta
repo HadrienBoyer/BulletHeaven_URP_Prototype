@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 9a86f19cdf3de164dbda39bbf9a2ba3a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Airsack
+    100002: Airsack_end
+    100004: Armature
+    100006: //RootNode
+    100008: Fin Beak
+    100010: Head
+    100012: Lower Fin
+    100014: Lower Fin_end
+    100016: Lower Jaw
+    100018: Lower Jaw_end
+    100020: Tail.001
+    100022: Tail.002
+    100024: Tail.002_end
+    100026: Tail.003
+    100028: Tail.003_end
+    100030: Tail.004
+    100032: Tail.004_end
+    100034: Tail.005
+    100036: Tail.005_end
+    100038: Tail.006
+    100040: Tail.006_end
+    100042: Tail.007
+    100044: Tail.007_end
+    100046: Tail.008
+    100048: Tail.008_end
+    100050: Tail.009
+    100052: Tail.009_end
+    100054: Tail.010
+    100056: Tail.010_end
+    100058: Tail.011
+    100060: Tail.011_end
+    100062: Tail.012
+    100064: Tail.012_end
+    100066: Tail.013
+    100068: Tail.013_end
+    100070: Upper Fin
+    100072: Fin Beak Bones
+    100074: Left Dominant Eye
+    100076: Left Dominant Eye_end
+    100078: Left Secondary Eye
+    100080: Left Secondary Eye_end
+    100082: Right Dominant Eye
+    100084: Right Dominant Eye_end
+    100086: Right Secondary Eye
+    100088: Right Secondary Eye_end
+    100090: Tail 01
+    100092: Tail 02
+    100094: Tail 02_end
+    100096: Tail 03
+    100098: Tail 03_end
+    100100: Tail 04
+    100102: Tail 04_end
+    100104: Tail 05
+    100106: Tail 05_end
+    100108: Tail 06
+    100110: Tail 06_end
+    100112: Tail 07
+    100114: Tail 07_end
+    100116: Tail 08
+    100118: Tail 08_end
+    100120: Tail 09
+    100122: Tail 09_end
+    100124: Tail 10
+    100126: Tail 10_end
+    100128: Tail 11
+    100130: Tail 11_end
+    100132: Tail 12
+    100134: Tail 12_end
+    100136: Tail 13
+    100138: Tail 13_end
+    100140: Tail 01_end
+    400000: Airsack
+    400002: Airsack_end
+    400004: Armature
+    400006: //RootNode
+    400008: Fin Beak
+    400010: Head
+    400012: Lower Fin
+    400014: Lower Fin_end
+    400016: Lower Jaw
+    400018: Lower Jaw_end
+    400020: Tail.001
+    400022: Tail.002
+    400024: Tail.002_end
+    400026: Tail.003
+    400028: Tail.003_end
+    400030: Tail.004
+    400032: Tail.004_end
+    400034: Tail.005
+    400036: Tail.005_end
+    400038: Tail.006
+    400040: Tail.006_end
+    400042: Tail.007
+    400044: Tail.007_end
+    400046: Tail.008
+    400048: Tail.008_end
+    400050: Tail.009
+    400052: Tail.009_end
+    400054: Tail.010
+    400056: Tail.010_end
+    400058: Tail.011
+    400060: Tail.011_end
+    400062: Tail.012
+    400064: Tail.012_end
+    400066: Tail.013
+    400068: Tail.013_end
+    400070: Upper Fin
+    400072: Fin Beak Bones
+    400074: Left Dominant Eye
+    400076: Left Dominant Eye_end
+    400078: Left Secondary Eye
+    400080: Left Secondary Eye_end
+    400082: Right Dominant Eye
+    400084: Right Dominant Eye_end
+    400086: Right Secondary Eye
+    400088: Right Secondary Eye_end
+    400090: Tail 01
+    400092: Tail 02
+    400094: Tail 02_end
+    400096: Tail 03
+    400098: Tail 03_end
+    400100: Tail 04
+    400102: Tail 04_end
+    400104: Tail 05
+    400106: Tail 05_end
+    400108: Tail 06
+    400110: Tail 06_end
+    400112: Tail 07
+    400114: Tail 07_end
+    400116: Tail 08
+    400118: Tail 08_end
+    400120: Tail 09
+    400122: Tail 09_end
+    400124: Tail 10
+    400126: Tail 10_end
+    400128: Tail 11
+    400130: Tail 11_end
+    400132: Tail 12
+    400134: Tail 12_end
+    400136: Tail 13
+    400138: Tail 13_end
+    400140: Tail 01_end
+    2100000: Airsack
+    2100002: Markings
+    2100004: Belly
+    2100006: Skin 1
+    2100008: Markings 2
+    2100010: Mouth
+    2100012: Eye
+    4300000: Fin Beak
+    9500000: //RootNode
+    13700000: Fin Beak
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Airsack
+    second: {fileID: 2100000, guid: cfb665055a4a37e4b886156e59b51b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belly
+    second: {fileID: 2100000, guid: fe23fa3ec109d9a48a8e47e4c6c7d6f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 68851e45f9f3d8142a88eba32a597337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Markings
+    second: {fileID: 2100000, guid: 1377ce4b3a400a844982617ee930fa71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Markings 2
+    second: {fileID: 2100000, guid: 7a5470cbb29a99f4b957c2b99d1c17f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: 816d927ffa7ba1a4f886ec6dc41ae30a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin 1
+    second: {fileID: 2100000, guid: 2e551d06e5c14154bb53706a6be01a2c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Fin.fbx
+  uploadId: 431753

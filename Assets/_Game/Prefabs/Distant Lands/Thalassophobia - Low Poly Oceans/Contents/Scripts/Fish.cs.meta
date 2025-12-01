@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 009ec6487ac49f24f8abd79beee13831
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Scripts/Fish.cs
+  uploadId: 692071

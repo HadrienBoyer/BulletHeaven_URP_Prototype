@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ec4bac395d6d064eb05ab2adbdbe71b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Demo/Demos/Standard/Materials/Player.mat
+  uploadId: 552417

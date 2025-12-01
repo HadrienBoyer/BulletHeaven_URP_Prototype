@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2221441c5fc4b0b4bb2046aa9f0e742c
+timeCreated: 1522831962
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103056
+  packageName: HUD Navigation System
+  packageVersion: 2.2.0
+  assetPath: Assets/Sickscore Games/HUD-Navigation-System/_Examples/ExampleScene/ExampleScene_SkyIsland.unity
+  uploadId: 382610

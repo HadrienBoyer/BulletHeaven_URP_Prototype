@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3eceb5ccfc0dcb4db57a84f9c566847
+timeCreated: 1474507969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_BackgroundHills_01.prefab
+  uploadId: 718576

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd794082f4789be45b0631d5ad2f9fb7
+timeCreated: 1474583712
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_Tile_Lava_01.prefab
+  uploadId: 718576

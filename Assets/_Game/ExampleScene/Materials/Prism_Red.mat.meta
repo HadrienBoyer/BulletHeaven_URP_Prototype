@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6beb8534357b94346bfbf33131e555db
+timeCreated: 1529485877
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103056
+  packageName: HUD Navigation System
+  packageVersion: 2.2.0
+  assetPath: Assets/Sickscore Games/HUD-Navigation-System/_Examples/ExampleScene/Materials/Prism_Red.mat
+  uploadId: 382610

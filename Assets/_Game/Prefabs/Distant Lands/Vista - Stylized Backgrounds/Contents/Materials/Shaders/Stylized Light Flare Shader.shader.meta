@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1bd44496ec8835746853724c46a55fc3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151622
+  packageName: 'Vista: Low Poly Backgrounds'
+  packageVersion: 2.0
+  assetPath: Assets/Distant Lands/Vista - Stylized Backgrounds/Contents/Materials/Shaders/Stylized
+    Light Flare Shader.shader
+  uploadId: 436917

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b0283e91a10f454db073dd5ab38debe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Scripts/Editor/FreeflowCombatEditor.cs
+  uploadId: 552417

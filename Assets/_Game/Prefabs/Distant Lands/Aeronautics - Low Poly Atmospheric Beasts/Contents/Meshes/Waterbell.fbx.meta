@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 524f3c0c4b9efd34e832a4a52c9020ad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Crown
+    100002: Crown_end
+    100004: Head
+    100006: Tentacle_1.001
+    100008: Tentacle_1.002
+    100010: Tentacle_1.003
+    100012: Tentacle_1.003_end
+    100014: Tentacle_1.004
+    100016: Tentacle_1.005
+    100018: Tentacle_1.006
+    100020: Tentacle_1.006_end
+    100022: Tentacle_2.001
+    100024: Tentacle_2.002
+    100026: Tentacle_2.003
+    100028: Tentacle_2.003_end
+    100030: Tentacle_2.004
+    100032: Tentacle_2.005
+    100034: Tentacle_2.006
+    100036: Tentacle_2.006_end
+    100038: Tentacle_3.001
+    100040: Tentacle_3.002
+    100042: Tentacle_3.003
+    100044: Tentacle_3.003_end
+    100046: Tentacle_3.004
+    100048: Tentacle_3.005
+    100050: Tentacle_3.006
+    100052: Tentacle_3.006_end
+    100054: Tentacle_4.001
+    100056: Tentacle_4.002
+    100058: Tentacle_4.003
+    100060: Tentacle_4.003_end
+    100062: Tentacle_4.004
+    100064: Tentacle_4.005
+    100066: Tentacle_4.006
+    100068: Tentacle_4.006_end
+    100070: Waterbell
+    100072: //RootNode
+    100074: Waterbell Bones
+    100076: Tentacle_1 1
+    100078: Tentacle_1 2
+    100080: Tentacle_1 3
+    100082: Tentacle_1 3_end
+    100084: Tentacle_2 1
+    100086: Tentacle_2 2
+    100088: Tentacle_2 3
+    100090: Tentacle_2 3_end
+    100092: Tentacle_3 1
+    100094: Tentacle_3 2
+    100096: Tentacle_3 3
+    100098: Tentacle_3 3_end
+    100100: Tentacle_4 1
+    100102: Tentacle_4 2
+    100104: Tentacle_4 3
+    100106: Tentacle_4 3_end
+    100108: Tentacle_5 1
+    100110: Tentacle_5 2
+    100112: Tentacle_5 3
+    100114: Tentacle_5 3_end
+    100116: Tentacle_6 1
+    100118: Tentacle_6 2
+    100120: Tentacle_6 3
+    100122: Tentacle_6 3_end
+    100124: Tentacle_7 1
+    100126: Tentacle_7 2
+    100128: Tentacle_7 3
+    100130: Tentacle_7 3_end
+    100132: Tentacle_8 1
+    100134: Tentacle_8 2
+    100136: Tentacle_8 3
+    100138: Tentacle_8 3_end
+    400000: Crown
+    400002: Crown_end
+    400004: Head
+    400006: Tentacle_1.001
+    400008: Tentacle_1.002
+    400010: Tentacle_1.003
+    400012: Tentacle_1.003_end
+    400014: Tentacle_1.004
+    400016: Tentacle_1.005
+    400018: Tentacle_1.006
+    400020: Tentacle_1.006_end
+    400022: Tentacle_2.001
+    400024: Tentacle_2.002
+    400026: Tentacle_2.003
+    400028: Tentacle_2.003_end
+    400030: Tentacle_2.004
+    400032: Tentacle_2.005
+    400034: Tentacle_2.006
+    400036: Tentacle_2.006_end
+    400038: Tentacle_3.001
+    400040: Tentacle_3.002
+    400042: Tentacle_3.003
+    400044: Tentacle_3.003_end
+    400046: Tentacle_3.004
+    400048: Tentacle_3.005
+    400050: Tentacle_3.006
+    400052: Tentacle_3.006_end
+    400054: Tentacle_4.001
+    400056: Tentacle_4.002
+    400058: Tentacle_4.003
+    400060: Tentacle_4.003_end
+    400062: Tentacle_4.004
+    400064: Tentacle_4.005
+    400066: Tentacle_4.006
+    400068: Tentacle_4.006_end
+    400070: //RootNode
+    400072: Waterbell
+    400074: Waterbell Bones
+    400076: Tentacle_1 1
+    400078: Tentacle_1 2
+    400080: Tentacle_1 3
+    400082: Tentacle_1 3_end
+    400084: Tentacle_2 1
+    400086: Tentacle_2 2
+    400088: Tentacle_2 3
+    400090: Tentacle_2 3_end
+    400092: Tentacle_3 1
+    400094: Tentacle_3 2
+    400096: Tentacle_3 3
+    400098: Tentacle_3 3_end
+    400100: Tentacle_4 1
+    400102: Tentacle_4 2
+    400104: Tentacle_4 3
+    400106: Tentacle_4 3_end
+    400108: Tentacle_5 1
+    400110: Tentacle_5 2
+    400112: Tentacle_5 3
+    400114: Tentacle_5 3_end
+    400116: Tentacle_6 1
+    400118: Tentacle_6 2
+    400120: Tentacle_6 3
+    400122: Tentacle_6 3_end
+    400124: Tentacle_7 1
+    400126: Tentacle_7 2
+    400128: Tentacle_7 3
+    400130: Tentacle_7 3_end
+    400132: Tentacle_8 1
+    400134: Tentacle_8 2
+    400136: Tentacle_8 3
+    400138: Tentacle_8 3_end
+    2100000: Skin
+    2100002: Jelly
+    4300000: Waterbell
+    9500000: //RootNode
+    13700000: Waterbell
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jelly
+    second: {fileID: 2100000, guid: 92f6b73bda57fa74f8c17812f1f9c710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: e0598146e028029419f04757869d1d8c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Waterbell.fbx
+  uploadId: 431753

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3eb347cd952749947830ef2bb1d01fe1
+timeCreated: 1475901597
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Models/Animals/Stag.controller
+  uploadId: 718576

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baf562d9c9771844e9516629bcd73947
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320235
+  packageName: Mage Bundle Samples - Free Motion Capture
+  packageVersion: 1.0
+  assetPath: Assets/Rapa Motion/MageBundleSamples/Character/DudeAnim.controller
+  uploadId: 779144

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a5adcec1817dd1340b41a82e17c4a62f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Materials/Shaders/Stylized
+    Grass.shader
+  uploadId: 692071

@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: a8ee26c2907b4cd45ad53181334ee25f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Jaw
+    100002: Jaw_end
+    100004: Spine 01
+    100006: Spine 02
+    100008: Spine 02_end
+    100010: Spine 03
+    100012: Spine 03_end
+    100014: Spine 04
+    100016: Spine 04_end
+    100018: Spine 05
+    100020: Spine 05_end
+    100022: Spine 06
+    100024: Spine 06_end
+    100026: Spine 07
+    100028: Spine 07_end
+    100030: Spine 08
+    100032: Spine 08_end
+    100034: Spine 09
+    100036: Spine 09_end
+    100038: Spine 10
+    100040: Spine 10_end
+    100042: Spine 11
+    100044: Spine 11_end
+    100046: Spine 12
+    100048: Spine 12_end
+    100050: Spine 13
+    100052: Spine 13_end
+    100054: Spine 14
+    100056: Spine 14_end
+    100058: Spine 15
+    100060: Spine 15_end
+    100062: Spine 16
+    100064: Spine 16_end
+    100066: Spine 17
+    100068: Spine 17_end
+    100070: Spine 18
+    100072: Spine 18_end
+    100074: Spine 19
+    100076: Spine 19_end
+    100078: Spine 20
+    100080: Spine 20_end
+    100082: Spine 21
+    100084: Spine 21_end
+    100086: Spine 22
+    100088: Spine 22_end
+    100090: Spine 23
+    100092: Spine 23_end
+    100094: Spine 24
+    100096: Spine 24_end
+    100098: Spine 25
+    100100: Spine 25_end
+    100102: Spine 26
+    100104: Spine 26_end
+    100106: Spine 27
+    100108: Spine 27_end
+    100110: Spine 28
+    100112: Spine 28_end
+    100114: Spine 29
+    100116: Spine 29_end
+    100118: Spine 30
+    100120: Spine 30_end
+    100122: Spine 31
+    100124: Spine 31_end
+    100126: Spine 32
+    100128: Spine 32_end
+    100130: Spine 33
+    100132: Spine 33_end
+    100134: Spine 34
+    100136: Spine 34_end
+    100138: Spine 35
+    100140: Spine 35_end
+    100142: Spine 36
+    100144: Spine 36_end
+    100146: Spine 37
+    100148: Spine 37_end
+    100150: Spine 38
+    100152: Spine 38_end
+    100154: Spine 39
+    100156: Spine 39_end
+    100158: Spine 40
+    100160: Spine 40_end
+    100162: Spine 41
+    100164: Spine 41_end
+    100166: Spine 42
+    100168: Spine 42_end
+    100170: Spine 43
+    100172: Spine 43_end
+    100174: Spine 44
+    100176: Spine 44_end
+    100178: Spine 45
+    100180: Spine 45_end
+    100182: Spine 46
+    100184: Spine 46_end
+    100186: Spine 47
+    100188: Spine 47_end
+    100190: Spine 48
+    100192: Spine 48_end
+    100194: Spine 49
+    100196: Spine 49_end
+    100198: Spine 50
+    100200: Spine 50_end
+    100202: Spine 51
+    100204: Spine 51_end
+    100206: Spine 52
+    100208: Spine 52_end
+    100210: Spine 53
+    100212: Spine 53_end
+    100214: Spine 54
+    100216: Spine 54_end
+    100218: Spine 55
+    100220: Spine 55_end
+    100222: Spine 56
+    100224: Spine 56_end
+    100226: Spine 57
+    100228: Spine 57_end
+    100230: Spine 58
+    100232: Spine 58_end
+    100234: Spine 59
+    100236: Spine 59_end
+    100238: Spine 60
+    100240: Spine 60_end
+    100242: Spine 61
+    100244: Spine 61_end
+    100246: Spine 62
+    100248: Spine 62_end
+    100250: Spine 63
+    100252: Spine 63_end
+    100254: Spine 64
+    100256: Spine 64_end
+    100258: Spine 65
+    100260: Spine 65_end
+    100262: Spine 66
+    100264: Spine 66_end
+    100266: Spine 67
+    100268: Spine 67_end
+    100270: Spine 68
+    100272: Spine 68_end
+    100274: Spine 69
+    100276: Spine 69_end
+    100278: Spine 70
+    100280: Spine 70_end
+    100282: Spine 71
+    100284: Spine 71_end
+    100286: Spine 72
+    100288: Spine 72_end
+    100290: Spine 73
+    100292: Spine 73_end
+    100294: Spine 74
+    100296: Spine 74_end
+    100298: Thunder Wrym
+    100300: Thunder Wrym Bones
+    100302: //RootNode
+    400000: Jaw
+    400002: Jaw_end
+    400004: Spine 01
+    400006: Spine 02
+    400008: Spine 02_end
+    400010: Spine 03
+    400012: Spine 03_end
+    400014: Spine 04
+    400016: Spine 04_end
+    400018: Spine 05
+    400020: Spine 05_end
+    400022: Spine 06
+    400024: Spine 06_end
+    400026: Spine 07
+    400028: Spine 07_end
+    400030: Spine 08
+    400032: Spine 08_end
+    400034: Spine 09
+    400036: Spine 09_end
+    400038: Spine 10
+    400040: Spine 10_end
+    400042: Spine 11
+    400044: Spine 11_end
+    400046: Spine 12
+    400048: Spine 12_end
+    400050: Spine 13
+    400052: Spine 13_end
+    400054: Spine 14
+    400056: Spine 14_end
+    400058: Spine 15
+    400060: Spine 15_end
+    400062: Spine 16
+    400064: Spine 16_end
+    400066: Spine 17
+    400068: Spine 17_end
+    400070: Spine 18
+    400072: Spine 18_end
+    400074: Spine 19
+    400076: Spine 19_end
+    400078: Spine 20
+    400080: Spine 20_end
+    400082: Spine 21
+    400084: Spine 21_end
+    400086: Spine 22
+    400088: Spine 22_end
+    400090: Spine 23
+    400092: Spine 23_end
+    400094: Spine 24
+    400096: Spine 24_end
+    400098: Spine 25
+    400100: Spine 25_end
+    400102: Spine 26
+    400104: Spine 26_end
+    400106: Spine 27
+    400108: Spine 27_end
+    400110: Spine 28
+    400112: Spine 28_end
+    400114: Spine 29
+    400116: Spine 29_end
+    400118: Spine 30
+    400120: Spine 30_end
+    400122: Spine 31
+    400124: Spine 31_end
+    400126: Spine 32
+    400128: Spine 32_end
+    400130: Spine 33
+    400132: Spine 33_end
+    400134: Spine 34
+    400136: Spine 34_end
+    400138: Spine 35
+    400140: Spine 35_end
+    400142: Spine 36
+    400144: Spine 36_end
+    400146: Spine 37
+    400148: Spine 37_end
+    400150: Spine 38
+    400152: Spine 38_end
+    400154: Spine 39
+    400156: Spine 39_end
+    400158: Spine 40
+    400160: Spine 40_end
+    400162: Spine 41
+    400164: Spine 41_end
+    400166: Spine 42
+    400168: Spine 42_end
+    400170: Spine 43
+    400172: Spine 43_end
+    400174: Spine 44
+    400176: Spine 44_end
+    400178: Spine 45
+    400180: Spine 45_end
+    400182: Spine 46
+    400184: Spine 46_end
+    400186: Spine 47
+    400188: Spine 47_end
+    400190: Spine 48
+    400192: Spine 48_end
+    400194: Spine 49
+    400196: Spine 49_end
+    400198: Spine 50
+    400200: Spine 50_end
+    400202: Spine 51
+    400204: Spine 51_end
+    400206: Spine 52
+    400208: Spine 52_end
+    400210: Spine 53
+    400212: Spine 53_end
+    400214: Spine 54
+    400216: Spine 54_end
+    400218: Spine 55
+    400220: Spine 55_end
+    400222: Spine 56
+    400224: Spine 56_end
+    400226: Spine 57
+    400228: Spine 57_end
+    400230: Spine 58
+    400232: Spine 58_end
+    400234: Spine 59
+    400236: Spine 59_end
+    400238: Spine 60
+    400240: Spine 60_end
+    400242: Spine 61
+    400244: Spine 61_end
+    400246: Spine 62
+    400248: Spine 62_end
+    400250: Spine 63
+    400252: Spine 63_end
+    400254: Spine 64
+    400256: Spine 64_end
+    400258: Spine 65
+    400260: Spine 65_end
+    400262: Spine 66
+    400264: Spine 66_end
+    400266: Spine 67
+    400268: Spine 67_end
+    400270: Spine 68
+    400272: Spine 68_end
+    400274: Spine 69
+    400276: Spine 69_end
+    400278: Spine 70
+    400280: Spine 70_end
+    400282: Spine 71
+    400284: Spine 71_end
+    400286: Spine 72
+    400288: Spine 72_end
+    400290: Spine 73
+    400292: Spine 73_end
+    400294: Spine 74
+    400296: Spine 74_end
+    400298: Thunder Wrym
+    400300: Thunder Wrym Bones
+    400302: //RootNode
+    2100000: Skin
+    2100002: Eye
+    2100004: Fin
+    2100006: Mouth
+    2100008: Belly
+    2100010: Teeth
+    4300000: Thunder Wrym
+    9500000: //RootNode
+    13700000: Thunder Wrym
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Belly
+    second: {fileID: 2100000, guid: 6c0da1266ee3d004ea98207e760a6828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: d2e59d907f8b6454b89072f5e83f68a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin
+    second: {fileID: 2100000, guid: 206fa65e905be8a4bae0656a3ff8f5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: 5011c3252ebbdb647800da06d0640430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 9561c6ad89f987d4b8c902635bd7aade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: a10712f482bf24048b21f9818d7adcac, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Thunderwyrm.fbx
+  uploadId: 431753

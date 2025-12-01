@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 304233d0a1c8e834ea465072c702f6a2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bottom Left Wing 1
+    100004: Bottom Left Wing 2
+    100006: Bottom Left Wing 3
+    100008: Bottom Left Wing 3_end
+    100010: Bottom Left Wing 5
+    100012: Bottom Left Wing 6
+    100014: Bottom Left Wing 7
+    100016: Bottom Left Wing 8
+    100018: Bottom Left Wing 8_end
+    100020: Bottom Right Wing 1
+    100022: Bottom Right Wing 2
+    100024: Bottom Right Wing 3
+    100026: Bottom Right Wing 3_end
+    100028: Bottom Right Wing 5
+    100030: Bottom Right Wing 6
+    100032: Bottom Right Wing 7
+    100034: Bottom Right Wing 8
+    100036: Bottom Right Wing 8_end
+    100038: Bottom Wing 1
+    100040: Bottom Wing 2
+    100042: Bottom Wing 3
+    100044: Bottom Wing 3_end
+    100046: Bottom Wing 4
+    100048: Bottom Wing 5
+    100050: Bottom Wing 6
+    100052: Bottom Wing 6_end
+    100054: Cork Shark
+    100056: //RootNode
+    100058: Head
+    100060: Left Wing 1
+    100062: Left Wing 2
+    100064: Left Wing 3
+    100066: Left Wing 3_end
+    100068: Left Wing 4
+    100070: Left Wing 5
+    100072: Left Wing 6
+    100074: Left Wing 6_end
+    100076: Lower Jaw
+    100078: Lower Jaw_end
+    100080: NurbsPath
+    100082: Right Wing 1
+    100084: Right Wing 2
+    100086: Right Wing 3
+    100088: Right Wing 3_end
+    100090: Right Wing 4
+    100092: Right Wing 5
+    100094: Right Wing 6
+    100096: Right Wing 6_end
+    100098: Tail 1
+    100100: Tail 10
+    100102: Tail 10_end
+    100104: Tail 11
+    100106: Tail 11_end
+    100108: Tail 12
+    100110: Tail 12_end
+    100112: Tail 13
+    100114: Tail 13_end
+    100116: Tail 14
+    100118: Tail 14_end
+    100120: Tail 15
+    100122: Tail 15_end
+    100124: Tail 16
+    100126: Tail 16_end
+    100128: Tail 17
+    100130: Tail 17_end
+    100132: Tail 18
+    100134: Tail 18_end
+    100136: Tail 19
+    100138: Tail 19_end
+    100140: Tail 1_end
+    100142: Tail 2
+    100144: Tail 20
+    100146: Tail 20_end
+    100148: Tail 21
+    100150: Tail 21_end
+    100152: Tail 22
+    100154: Tail 22_end
+    100156: Tail 23
+    100158: Tail 23_end
+    100160: Tail 24
+    100162: Tail 24_end
+    100164: Tail 25
+    100166: Tail 25_end
+    100168: Tail 26
+    100170: Tail 26_end
+    100172: Tail 27
+    100174: Tail 27_end
+    100176: Tail 28
+    100178: Tail 28_end
+    100180: Tail 3
+    100182: Tail 3_end
+    100184: Tail 4
+    100186: Tail 5
+    100188: Tail 5_end
+    100190: Tail 6
+    100192: Tail 7
+    100194: Tail 7_end
+    100196: Tail 8
+    100198: Tail 9
+    100200: Tail 9_end
+    100202: Top Left Wing 1
+    100204: Top Left Wing 2
+    100206: Top Left Wing 3
+    100208: Top Left Wing 3_end
+    100210: Top Left Wing 5
+    100212: Top Left Wing 6
+    100214: Top Left Wing 7
+    100216: Top Left Wing 8
+    100218: Top Left Wing 8_end
+    100220: Top RIght Wing 1
+    100222: Top RIght Wing 2
+    100224: Top RIght Wing 3
+    100226: Top RIght Wing 3_end
+    100228: Top RIght Wing 5
+    100230: Top RIght Wing 6
+    100232: Top RIght Wing 7
+    100234: Top RIght Wing 8
+    100236: Top RIght Wing 8_end
+    100238: Top Wing 1
+    100240: Top Wing 2
+    100242: Top Wing 3
+    100244: Top Wing 3_end
+    100246: Top Wing 4
+    100248: Top Wing 5
+    100250: Top Wing 6
+    100252: Top Wing 6_end
+    100254: Cork Shark Bones
+    100256: Top Right Wing 1
+    100258: Top Right Wing 2
+    100260: Top Right Wing 3
+    100262: Top Right Wing 3_end
+    100264: Top Right Wing 5
+    100266: Top Right Wing 6
+    100268: Top Right Wing 7
+    100270: Top Right Wing 8
+    100272: Top Right Wing 8_end
+    400000: Armature
+    400002: Bottom Left Wing 1
+    400004: Bottom Left Wing 2
+    400006: Bottom Left Wing 3
+    400008: Bottom Left Wing 3_end
+    400010: Bottom Left Wing 5
+    400012: Bottom Left Wing 6
+    400014: Bottom Left Wing 7
+    400016: Bottom Left Wing 8
+    400018: Bottom Left Wing 8_end
+    400020: Bottom Right Wing 1
+    400022: Bottom Right Wing 2
+    400024: Bottom Right Wing 3
+    400026: Bottom Right Wing 3_end
+    400028: Bottom Right Wing 5
+    400030: Bottom Right Wing 6
+    400032: Bottom Right Wing 7
+    400034: Bottom Right Wing 8
+    400036: Bottom Right Wing 8_end
+    400038: Bottom Wing 1
+    400040: Bottom Wing 2
+    400042: Bottom Wing 3
+    400044: Bottom Wing 3_end
+    400046: Bottom Wing 4
+    400048: Bottom Wing 5
+    400050: Bottom Wing 6
+    400052: Bottom Wing 6_end
+    400054: Cork Shark
+    400056: //RootNode
+    400058: Head
+    400060: Left Wing 1
+    400062: Left Wing 2
+    400064: Left Wing 3
+    400066: Left Wing 3_end
+    400068: Left Wing 4
+    400070: Left Wing 5
+    400072: Left Wing 6
+    400074: Left Wing 6_end
+    400076: Lower Jaw
+    400078: Lower Jaw_end
+    400080: NurbsPath
+    400082: Right Wing 1
+    400084: Right Wing 2
+    400086: Right Wing 3
+    400088: Right Wing 3_end
+    400090: Right Wing 4
+    400092: Right Wing 5
+    400094: Right Wing 6
+    400096: Right Wing 6_end
+    400098: Tail 1
+    400100: Tail 10
+    400102: Tail 10_end
+    400104: Tail 11
+    400106: Tail 11_end
+    400108: Tail 12
+    400110: Tail 12_end
+    400112: Tail 13
+    400114: Tail 13_end
+    400116: Tail 14
+    400118: Tail 14_end
+    400120: Tail 15
+    400122: Tail 15_end
+    400124: Tail 16
+    400126: Tail 16_end
+    400128: Tail 17
+    400130: Tail 17_end
+    400132: Tail 18
+    400134: Tail 18_end
+    400136: Tail 19
+    400138: Tail 19_end
+    400140: Tail 1_end
+    400142: Tail 2
+    400144: Tail 20
+    400146: Tail 20_end
+    400148: Tail 21
+    400150: Tail 21_end
+    400152: Tail 22
+    400154: Tail 22_end
+    400156: Tail 23
+    400158: Tail 23_end
+    400160: Tail 24
+    400162: Tail 24_end
+    400164: Tail 25
+    400166: Tail 25_end
+    400168: Tail 26
+    400170: Tail 26_end
+    400172: Tail 27
+    400174: Tail 27_end
+    400176: Tail 28
+    400178: Tail 28_end
+    400180: Tail 3
+    400182: Tail 3_end
+    400184: Tail 4
+    400186: Tail 5
+    400188: Tail 5_end
+    400190: Tail 6
+    400192: Tail 7
+    400194: Tail 7_end
+    400196: Tail 8
+    400198: Tail 9
+    400200: Tail 9_end
+    400202: Top Left Wing 1
+    400204: Top Left Wing 2
+    400206: Top Left Wing 3
+    400208: Top Left Wing 3_end
+    400210: Top Left Wing 5
+    400212: Top Left Wing 6
+    400214: Top Left Wing 7
+    400216: Top Left Wing 8
+    400218: Top Left Wing 8_end
+    400220: Top RIght Wing 1
+    400222: Top RIght Wing 2
+    400224: Top RIght Wing 3
+    400226: Top RIght Wing 3_end
+    400228: Top RIght Wing 5
+    400230: Top RIght Wing 6
+    400232: Top RIght Wing 7
+    400234: Top RIght Wing 8
+    400236: Top RIght Wing 8_end
+    400238: Top Wing 1
+    400240: Top Wing 2
+    400242: Top Wing 3
+    400244: Top Wing 3_end
+    400246: Top Wing 4
+    400248: Top Wing 5
+    400250: Top Wing 6
+    400252: Top Wing 6_end
+    400254: Cork Shark Bones
+    400256: Top Right Wing 1
+    400258: Top Right Wing 2
+    400260: Top Right Wing 3
+    400262: Top Right Wing 3_end
+    400264: Top Right Wing 5
+    400266: Top Right Wing 6
+    400268: Top Right Wing 7
+    400270: Top Right Wing 8
+    400272: Top Right Wing 8_end
+    2100000: Skin
+    2100002: Marking
+    2100004: Mouth
+    2100006: No Name
+    2100008: Eye
+    2100010: Teeth
+    2100012: Skin 2
+    2300000: Cork Shark
+    2300002: NurbsPath
+    3300000: Cork Shark
+    3300002: NurbsPath
+    4300000: Cork Shark
+    4300002: NurbsPath
+    9500000: //RootNode
+    13700000: Cork Shark
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: d3b6cd79bfa9ae44ab3dd370b6597aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marking
+    second: {fileID: 2100000, guid: 1eafb3fbc50ef944bac02924d65304be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth
+    second: {fileID: 2100000, guid: ceb78241b78a6ac4ab57643fdc87a3de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 000b847111d4cf447960e2deff69a9b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin 2
+    second: {fileID: 2100000, guid: d035274cb6492684898171d6e4a7c508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: b1e35d3e9fca492449b3eb497a8dc019, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Corkshark.fbx
+  uploadId: 431753

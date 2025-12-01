@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: c5c02a7f2b717914cb308aa5c39f3812
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Head
+    100002: Head_end
+    100004: Left Wing Spine 2
+    100006: Left Wing Spine 2_end
+    100008: Left Wing Spine 3
+    100010: Left Wing Spine 3_end
+    100012: Left Wing Spine 4
+    100014: Left Wing Spine 4_end
+    100016: Left Wing Spine 5
+    100018: Left Wing Spine 5_end
+    100020: Right Wing Spine 2
+    100022: Right Wing Spine 2_end
+    100024: Right Wing Spine 3
+    100026: Right Wing Spine 3_end
+    100028: Right Wing Spine 4
+    100030: Right Wing Spine 4_end
+    100032: Right Wing Spine 5
+    100034: Right Wing Spine 5_end
+    100036: //RootNode
+    100038: Skyrod
+    100040: Skyrod Bones
+    100042: Spine 1
+    100044: Spine 1_end
+    100046: Spine 2
+    100048: Spine 3
+    100050: Spine 4
+    100052: Spine 5
+    100054: Spine 6
+    100056: Spine 6_end
+    400000: Head
+    400002: Head_end
+    400004: Left Wing Spine 2
+    400006: Left Wing Spine 2_end
+    400008: Left Wing Spine 3
+    400010: Left Wing Spine 3_end
+    400012: Left Wing Spine 4
+    400014: Left Wing Spine 4_end
+    400016: Left Wing Spine 5
+    400018: Left Wing Spine 5_end
+    400020: Right Wing Spine 2
+    400022: Right Wing Spine 2_end
+    400024: Right Wing Spine 3
+    400026: Right Wing Spine 3_end
+    400028: Right Wing Spine 4
+    400030: Right Wing Spine 4_end
+    400032: Right Wing Spine 5
+    400034: Right Wing Spine 5_end
+    400036: //RootNode
+    400038: Skyrod
+    400040: Skyrod Bones
+    400042: Spine 1
+    400044: Spine 1_end
+    400046: Spine 2
+    400048: Spine 3
+    400050: Spine 4
+    400052: Spine 5
+    400054: Spine 6
+    400056: Spine 6_end
+    2100000: Skin
+    2100002: Markings
+    4300000: Skyrod
+    9500000: //RootNode
+    13700000: Skyrod
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Markings
+    second: {fileID: 2100000, guid: cf0984235f328fe418fb06a606875625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2100000, guid: 9e6363f596ba22644add1816973812f2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Distant Lands/Aeronautics - Low Poly Atmospheric Beasts/Contents/Meshes/Skyrod.fbx
+  uploadId: 431753

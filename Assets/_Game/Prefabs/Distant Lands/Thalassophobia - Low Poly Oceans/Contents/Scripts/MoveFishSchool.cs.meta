@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dbfc0c5e296554e41be1a3fa1c78ecdc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Scripts/MoveFishSchool.cs
+  uploadId: 692071

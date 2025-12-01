@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7fc1747c23c4c3942828c9139ce7212b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193910
+  packageName: 'Aeronautics: Low Poly Atmospheric Beasts'
+  packageVersion: 1.0
+  assetPath: Assets/Kaiju - Low Poly Giant Monsters/Contents/Scripts/AutoMove.cs
+  uploadId: 431753

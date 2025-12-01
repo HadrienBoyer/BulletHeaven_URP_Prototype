@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d15621788338b545b898f843fcad8db
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Materials/Shaders/Stylized
+    Dynamic Coral.shader
+  uploadId: 692071

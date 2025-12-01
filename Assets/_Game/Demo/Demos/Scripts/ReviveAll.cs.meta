@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2493340ee833dc4eaa7937521fa50de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Demo/Demos/Scripts/ReviveAll.cs
+  uploadId: 552417

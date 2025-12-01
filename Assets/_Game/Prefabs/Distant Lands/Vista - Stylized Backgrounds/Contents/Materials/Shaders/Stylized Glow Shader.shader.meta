@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 214c0d8ed7cccc04ea9c26b89f59d1a0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 151622
+  packageName: 'Vista: Low Poly Backgrounds'
+  packageVersion: 2.0
+  assetPath: Assets/Distant Lands/Vista - Stylized Backgrounds/Contents/Materials/Shaders/Stylized
+    Glow Shader.shader
+  uploadId: 436917

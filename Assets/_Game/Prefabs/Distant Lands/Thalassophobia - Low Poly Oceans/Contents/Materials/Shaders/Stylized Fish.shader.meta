@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 69b1b1af9638cde4b82a3116cbe130fe
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Materials/Shaders/Stylized
+    Fish.shader
+  uploadId: 692071

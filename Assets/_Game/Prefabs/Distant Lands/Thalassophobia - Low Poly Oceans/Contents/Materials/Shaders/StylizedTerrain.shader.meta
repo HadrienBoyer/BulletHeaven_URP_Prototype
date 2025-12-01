@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b88eb6c9c177ebb41813bf46b1bcd7a6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192227
+  packageName: 'Thalassophobia: Stylized Oceans'
+  packageVersion: 1.1.0
+  assetPath: Assets/Distant Lands/Thalassophobia - Low Poly Oceans/Contents/Materials/Shaders/StylizedTerrain.shader
+  uploadId: 692071

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c057e9c91565e14cba223f46a8d34db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206954
+  packageName: Freeflow Combat
+  packageVersion: 1.0.4
+  assetPath: Assets/Freeflow Combat/Scripts/FreeflowCombatEnemy.cs
+  uploadId: 552417

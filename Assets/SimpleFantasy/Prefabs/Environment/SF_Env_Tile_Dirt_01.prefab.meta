@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7cc05f9d3a569c4197fee6db44ab581
+timeCreated: 1473992334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32906
+  packageName: Simple Fantasy - Cartoon Assets
+  packageVersion: 1.1.7
+  assetPath: Assets/SimpleFantasy/Prefabs/Environment/SF_Env_Tile_Dirt_01.prefab
+  uploadId: 718576
