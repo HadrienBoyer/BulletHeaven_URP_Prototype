@@ -969,6 +969,6 @@ AssetOrigin:
   productId: 326043
   packageName: Human Spellcasting Animations FREE
   packageVersion: 1.0
-  assetPath: Assets/Kevin Iglesias/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect2H01
+  assetPath: Assets/_Game/Animations/Human Animations/Animations/Female/Combat/Spellcasting/MagicAttacks/Directional/HumanF@MagicAttackDirect2H01
     - Load.fbx
-  uploadId: 771492
+  uploadId: 825286

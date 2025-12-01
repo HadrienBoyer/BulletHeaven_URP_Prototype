@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 383afa9ae798a0c4eb2fb43e0a84b66b
+guid: f3894581926850a43be23e43d5465af5
 labels:
 - Animation
 ModelImporter:
@@ -973,5 +973,5 @@ AssetOrigin:
   productId: 326043
   packageName: Human Spellcasting Animations FREE
   packageVersion: 1.0
-  assetPath: Assets/Kevin Iglesias/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle02.fbx
-  uploadId: 771492
+  assetPath: Assets/_Game/Animations/Human Animations/Animations/Female/Idles/HumanF@Idle01-Idle02.fbx
+  uploadId: 825286

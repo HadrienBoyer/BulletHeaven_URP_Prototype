@@ -15,16 +15,16 @@ MonoBehaviour:
   active: 1
   amount:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   resolution:
     m_OverrideState: 1
-    m_Value: 240
+    m_Value: 920
   resolutionPreset:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 240
   preserveAspectRatio:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   centerPixel:
     m_OverrideState: 1
     m_Value: 1
@@ -66,17 +66,17 @@ MonoBehaviour:
   active: 1
   overlayTex:
     m_OverrideState: 1
-    m_Value: {fileID: 0}
+    m_Value: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
     dimension: 1
   color:
     m_OverrideState: 1
     m_Value: {r: 0.66, g: 0, b: 0, a: 1}
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   size:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   shader: {fileID: 4800000, guid: 1c818ca9da4e68a44b506ad8c87e9c49, type: 3}
 --- !u!114 &-7530631311058665335
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.422
+    m_Value: 0.341
   smoothness:
     m_OverrideState: 1
     m_Value: 0.602
@@ -351,10 +351,10 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.078
   amount:
     m_OverrideState: 1
-    m_Value: 700
+    m_Value: 774
   speed:
     m_OverrideState: 1
     m_Value: 0
@@ -765,10 +765,10 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   radius:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 8
   startFadeDistance:
     m_OverrideState: 1
     m_Value: 100
@@ -907,7 +907,7 @@ MonoBehaviour:
   active: 1
   distance:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.5
   cropToFit:
     m_OverrideState: 1
     m_Value: 1
@@ -926,7 +926,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 2
   gaussianStart:
     m_OverrideState: 1
     m_Value: 10
@@ -996,13 +996,13 @@ MonoBehaviour:
     dimension: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   size:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 0.177
   falloff:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 0.316
   shader: {fileID: 4800000, guid: 26dde0dec2d56164dad7ebbb7436d149, type: 3}
 --- !u!114 &-1641783372509921457
 MonoBehaviour:
@@ -1019,7 +1019,7 @@ MonoBehaviour:
   active: 1
   temperature:
     m_OverrideState: 1
-    m_Value: -4
+    m_Value: -20.7
   tint:
     m_OverrideState: 1
     m_Value: 0
@@ -1138,16 +1138,16 @@ MonoBehaviour:
     m_Value: 0
   blendMode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 2
   intensity:
     m_OverrideState: 1
     m_Value: 0
   brightness:
     m_OverrideState: 1
-    m_Value: {x: 0, y: 1}
+    m_Value: {x: 0.14925373, y: 0.28358275}
   tiling:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 2.8
   shader: {fileID: 4800000, guid: 5223e72bff90cca4ea18dd3ed23f3062, type: 3}
 --- !u!114 &-620960480257782413
 MonoBehaviour:
@@ -1217,10 +1217,10 @@ MonoBehaviour:
     m_Value: 0
   luminanceThreshold:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 0.44
   tiling:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.44
   shader: {fileID: 4800000, guid: 9dfd4d129fd660d43a2fb5c40d119ca4, type: 3}
 --- !u!114 &-177177513734362569
 MonoBehaviour:
@@ -1338,7 +1338,7 @@ MonoBehaviour:
     m_Value: 0
   mode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 3
   invertFadeDistance:
     m_OverrideState: 1
     m_Value: 0
@@ -1353,28 +1353,28 @@ MonoBehaviour:
     m_Value: 1000
   sensitivityDepth:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.168
   sensitivityNormals:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.114
   lumThreshold:
     m_OverrideState: 1
     m_Value: 0.01
   edgeColor:
     m_OverrideState: 1
-    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
   edgeExp:
     m_OverrideState: 1
     m_Value: 1
   edgeSize:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 4
   edgeOpacity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   sobelThin:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   DepthNormalsShader: {fileID: 4800000, guid: 516d67fad41db074ca871164dfde9e71, type: 3}
   shader: {fileID: 4800000, guid: 3d6327a8c88b3714793200af974474fc, type: 3}
 --- !u!114 &146803247439540471
@@ -1603,10 +1603,10 @@ MonoBehaviour:
     m_Value: 0
   size:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   maxSize:
     m_OverrideState: 1
-    m_Value: 0.33
+    m_Value: 0.233
   shader: {fileID: 4800000, guid: cbc7ec1937f2e014c900a7f31facfed9, type: 3}
 --- !u!114 &6360494532866039142
 MonoBehaviour:
@@ -1678,10 +1678,10 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.7542093, z: 0.8315758, w: 0.20771515}
+    m_Value: {x: 1, y: 0.7542093, z: 0.8315758, w: 0.043631297}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.80560106, y: 0.9087016, z: 1, w: -0.17804156}
+    m_Value: {x: 0.80560106, y: 0.9087016, z: 1, w: 0.066332914}
   highlights:
     m_OverrideState: 1
     m_Value: {x: 1, y: 0.91995156, z: 0.9141021, w: -0.029673586}
