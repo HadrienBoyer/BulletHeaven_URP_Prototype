@@ -2972,11 +2972,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 659136999}
   m_Mesh: {fileID: 4300000, guid: 795a2bbb6f5e726499bc44e9ae463bd8, type: 3}
---- !u!224 &680729032 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 224869677321073616, guid: 477b552e6fe38bb439871d9d6409b2c3, type: 3}
-  m_PrefabInstance: {fileID: 1562733465}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &681251475
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4465,8 +4460,6 @@ Transform:
   - {fileID: 144835919}
   - {fileID: 1522895840}
   - {fileID: 1284026666}
-  - {fileID: 1556593570}
-  - {fileID: 680729032}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &850534715
@@ -7966,6 +7959,7 @@ Transform:
   - {fileID: 1430715079}
   - {fileID: 877901854}
   - {fileID: 80709394}
+  - {fileID: 1676903367}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1308425982
@@ -10252,7 +10246,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 850534714}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1562733465
 PrefabInstance:
@@ -10260,7 +10254,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 850534714}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1172632575032340, guid: 477b552e6fe38bb439871d9d6409b2c3, type: 3}
       propertyPath: m_Name
@@ -11150,6 +11144,70 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1676903366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1676903367}
+  - component: {fileID: 1676903368}
+  m_Layer: 0
+  m_Name: NavMesh Surface
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1676903367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1676903366}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1300978685}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1676903368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1676903366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.AI.Navigation::Unity.AI.Navigation.NavMeshSurface
+  m_SerializedVersion: 0
+  m_AgentTypeID: 0
+  m_CollectObjects: 0
+  m_Size: {x: 10, y: 10, z: 10}
+  m_Center: {x: 0, y: 2, z: 0}
+  m_LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_UseGeometry: 0
+  m_DefaultArea: 0
+  m_GenerateLinks: 0
+  m_IgnoreNavMeshAgent: 1
+  m_IgnoreNavMeshObstacle: 1
+  m_OverrideTileSize: 0
+  m_TileSize: 256
+  m_OverrideVoxelSize: 0
+  m_VoxelSize: 0.16666667
+  m_MinRegionArea: 2
+  m_NavMeshData: {fileID: 23800000, guid: 8ee97764e2dd1446fa0c6da67435614d, type: 2}
+  m_BuildHeightMesh: 0
 --- !u!1 &1683543976
 GameObject:
   m_ObjectHideFlags: 0
@@ -12521,7 +12579,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 0
 --- !u!1001 &6445308324175841589
 PrefabInstance:
@@ -12663,6 +12721,10 @@ PrefabInstance:
       propertyPath: camera
       value: 
       objectReference: {fileID: 735527815}
+    - target: {fileID: 8369544144113515478, guid: 606e4d0405c374c818e17f1faae9fed0, type: 3}
+      propertyPath: m_IncludeLayers.m_Bits
+      value: 985
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12688,6 +12750,8 @@ SceneRoots:
   - {fileID: 793825974}
   - {fileID: 850534714}
   - {fileID: 1440432460}
+  - {fileID: 1556593570}
+  - {fileID: 1562733465}
   - {fileID: 1140534869}
   - {fileID: 1058602862}
   - {fileID: 710672120}
