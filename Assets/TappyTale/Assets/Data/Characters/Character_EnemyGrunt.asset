@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+x  m_Script: {fileID: 11500000, guid: ae54c26aeb23448f289c7a3f8b9fadb1, type: 3}
   m_Name: Character_EnemyGrunt
   m_EditorClassIdentifier: 
 
@@ -19,5 +19,5 @@ MonoBehaviour:
   MoveSpeed: 3.5
   DodgeDistance: 0
   DodgeDuration: 0.1
-  StartingWeapon: {fileID: 11400000, guid: 00000000000000000000000000000000, type: 2}
+  StartingWeapon: {fileID: 11400000, guid: 8b6b70ff1326841e791941ca870aa721, type: 2}
 

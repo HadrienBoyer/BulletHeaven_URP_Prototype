@@ -32,7 +32,7 @@ public static class ProjectAutoSetup
 
         System.IO.File.WriteAllText(MarkerPath, "ok");
         AssetDatabase.Refresh();
-        Debug.Log("[AutoSetup] Project initialised.");
+        Debug.Log("[TAPPY TALE][AutoSetup] Project initialised.");
     }
 
     static void EnsureFolders()
@@ -141,10 +141,15 @@ public static class ProjectAutoSetup
         enemy.name = "Enemy";
         var eh = enemy.AddComponent<Health>(); eh.MaxHP = 20;
         var enc = enemy.AddComponent<EnemyController>();
-        var epivot = new GameObject("AimPivot").transform; epivot.SetParent(enemy.transform); epivot.localPosition = new Vector3(0,0.5f,0);
+        var epivot = new GameObject("AimPivot").transform; 
+        epivot.SetParent(enemy.transform); 
+        epivot.localPosition = new Vector3(0,0.5f,0);
         enc.AimPivot = epivot;
-        var emuzzle = new GameObject("Muzzle").transform; emuzzle.SetParent(epivot); emuzzle.localPosition = new Vector3(0,0.5f,0.8f);
-        var es = enemy.AddComponent<AutoShooter>(); es.Muzzle = emuzzle; es.Auto = true;
+        var emuzzle = new GameObject("Muzzle").transform; 
+        emuzzle.SetParent(epivot); 
+        emuzzle.localPosition = new Vector3(0,0.5f,0.8f);
+        var es = enemy.AddComponent<AutoShooter>(); 
+        es.Muzzle = emuzzle; es.Auto = true;
         enc.Shooter = es;
 
         PrefabUtility.SaveAsPrefabAsset(enemy, "Assets/Prefabs/Enemy.prefab");

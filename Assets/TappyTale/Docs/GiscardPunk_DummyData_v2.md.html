@@ -7,8 +7,8 @@
 Ce pack contient :
 - Un set minimal de scripts C# nécessaires pour compiler les ScriptableObjects
 - 4 ScriptableObjects `.asset` prêts à être importés :
-  - Weapons : `Weapon_SwordDefault`, `Weapon_EnemyClaw`
-  - Characters : `Character_Player`, `Character_EnemyGrunt`
+- Weapons : `Weapon_SwordDefault`, `Weapon_EnemyClaw`
+- Characters : `Character_Player`, `Character_EnemyGrunt`
 
 Les GUID de scripts et d'assets sont laissés neutres pour que Unity régénère les `.meta` proprement dans TON projet.
 
@@ -18,21 +18,21 @@ Les GUID de scripts et d'assets sont laissés neutres pour que Unity régénère
 
 ```text
 Assets/
-  Scripts/
-    Combat/
-      DamageType.cs
-      WeaponDefinition.cs
-    Characters/
-      CharacterDefinition.cs
-  Data/
-    Weapons/
-      Weapon_SwordDefault.asset
-      Weapon_EnemyClaw.asset
-    Characters/
-      Character_Player.asset
-      Character_EnemyGrunt.asset
+Scripts/
+Combat/
+DamageType.cs
+WeaponDefinition.cs
+Characters/
+CharacterDefinition.cs
+Data/
+Weapons/
+Weapon_SwordDefault.asset
+Weapon_EnemyClaw.asset
+Characters/
+Character_Player.asset
+Character_EnemyGrunt.asset
 Docs/
-  GiscardPunk_DummyData_v2.md.html
+GiscardPunk_DummyData_v2.md.html
 ```
 
 ---
@@ -89,15 +89,15 @@ Docs/
 1. Copie le contenu de ce pack dans ton projet Unity (merge `Assets/` et `Docs/`).
 2. Laisse Unity recompiler et générer les `.meta`.
 3. Dans le Project :
-   - Va dans `Assets/Data/Weapons/` et vérifie les deux Weapons.
-   - Va dans `Assets/Data/Characters/` et vérifie les deux Characters.
+- Va dans `Assets/Data/Weapons/` et vérifie les deux Weapons.
+- Va dans `Assets/Data/Characters/` et vérifie les deux Characters.
 4. Sur ton Player GameObject :
-   - Ajoute `CharacterDefinition` si besoin dans un `CharacterRuntime` (selon ta base),
-   - Assigne `Character_Player` comme definition,
-   - Dans ce SO, mets `StartingWeapon = Weapon_SwordDefault`.
+- Ajoute `CharacterDefinition` si besoin dans un `CharacterRuntime` (selon ta base),
+- Assigne `Character_Player` comme definition,
+- Dans ce SO, mets `StartingWeapon = Weapon_SwordDefault`.
 5. Sur un Enemy GameObject :
-   - Assigne `Character_EnemyGrunt` comme definition,
-   - Dans ce SO, mets `StartingWeapon = Weapon_EnemyClaw`.
+- Assigne `Character_EnemyGrunt` comme definition,
+- Dans ce SO, mets `StartingWeapon = Weapon_EnemyClaw`.
 
 Une fois ces liens faits, ton système de combat peut déjà consommer ces données.
 
@@ -105,18 +105,33 @@ Une fois ces liens faits, ton système de combat peut déjà consommer ces donn�
 
 ```mermaid
 graph TD
-    subgraph Weapons
-        W1[Weapon_SwordDefault]
-        W2[Weapon_EnemyClaw]
-    end
-    subgraph Characters
-        C1[Character_Player]
-        C2[Character_EnemyGrunt]
-    end
-    C1 -->|StartingWeapon| W1
-    C2 -->|StartingWeapon| W2
+subgraph Weapons
+W1[Weapon_SwordDefault]
+W2[Weapon_EnemyClaw]
+end
+subgraph Characters
+C1[Character_Player]
+C2[Character_EnemyGrunt]
+end
+C1 -->|StartingWeapon| W1
+C2 -->|StartingWeapon| W2
 ```
 
 ---
+## Documentation MarkDeep
 
 <script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script>
+
+- CharacterDefinition.cs m_Script GUID: ae54c26aeb23448f289c7a3f8b9fadb1
+
+
+- DamageType.cs m_Script GUID: b1c2d3e4f5a60718293a4b5c6d7e8f90
+
+- WeaponDefinition.cs m_Script GUID: 0f1e2d3c4b5a69788796a5b4c3d2e1f0
+- Weapon_EnemyClaw.asset m_Script GUID: 3b2f1a4c5d6e7f8091a2b3c4d5e6f708
+- Weapon_SwordDefault.asset m_Script GUID: 9ca026ea7eb8d4eef8758b938efa3a21
+
+- CharacterDefinition.cs m_Script GUID: 1a2b3c4d5e6f70819283746556473829
+
+- Character_EnemyGrunt.asset m_Script GUID: 5f4e1c3d2b4a6b4498f4e7b2d3c9e1f
+- Character_Player.asset m_Script GUID: d3b87f4a9c2e5b6f8a7c9d0e1b2c3d4e

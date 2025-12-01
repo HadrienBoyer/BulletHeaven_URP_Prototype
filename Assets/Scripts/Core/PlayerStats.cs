@@ -6,9 +6,9 @@ namespace TappyTale
     public class PlayerStats : ScriptableObject
     {
         public int MaxHP = 100;
-        [HideInInspector] public int CurrentHP;
-        [HideInInspector] public int Level = 1;
-        [HideInInspector] public int CurrentXP = 0;
+        public int CurrentHP;
+        public int Level = 1;
+        public int CurrentXP = 0;
         public int XPPerLevel = 100;
 
         public void ResetRun()

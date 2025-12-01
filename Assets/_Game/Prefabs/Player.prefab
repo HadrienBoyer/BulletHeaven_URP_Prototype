@@ -956,6 +956,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 0}
+  offset: {x: 0, y: 5, z: -10}
 --- !u!114 &2276046218881586821
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2621,7 +2622,7 @@ TrailRenderer:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.18415642
+        value: 0.71748924
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -2630,7 +2631,7 @@ TrailRenderer:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 1
-        value: 0
+        value: 0.6083374
         inSlope: 0
         outSlope: 0
         tangentMode: 0

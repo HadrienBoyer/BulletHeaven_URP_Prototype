@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+  m_Script: {fileID: 11500000, guid: 3bc808f9f9e154dacbbf48a5a037068a, type: 3}
   m_Name: Character_Player
   m_EditorClassIdentifier: 
 
@@ -19,5 +19,5 @@ MonoBehaviour:
   MoveSpeed: 5
   DodgeDistance: 3
   DodgeDuration: 0.2
-  StartingWeapon: {fileID: 11400000, guid: 00000000000000000000000000000000, type: 2}
+  StartingWeapon: {fileID: 11400000, guid: 9ca026ea7eb8d4eef8758b938efa3a21, type: 2}
 
