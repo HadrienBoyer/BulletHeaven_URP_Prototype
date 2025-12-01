@@ -1,17 +1,17 @@
 ﻿<Solution>
   <Project Path="Flexalon.Editor.csproj" />
-  <Project Path="Flexalon.csproj" />
   <Project Path="VHierarchy.csproj" />
   <Project Path="sc.posteffects.editor.csproj" />
   <Project Path="sc.posteffects.runtime.csproj" />
   <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="SplineArchitect.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
-  <Project Path="Flexalon.Samples.csproj" />
   <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
   <Project Path="SplineArchitect.Editor.csproj" />
-  <Project Path="Flexalon.Samples.Editor.csproj" />
+  <Project Path="Flexalon.csproj" />
+  <Project Path="Flexalon.Samples.csproj" />
   <Project Path="VoxelLabs.UltimatePreview.Lib.csproj" />
   <Project Path="VFavorites.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Flexalon.Samples.Editor.csproj" />
 </Solution>

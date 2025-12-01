@@ -1,5 +1,9 @@
 # Unity
 [Ll]ibrary/
+Assets/[Pp]lugins/
+Assets/Plugins/**
+Assets/ThirdParty/
+Assets/ThirdParty/**
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
